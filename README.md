@@ -5,6 +5,7 @@ This dashboard was developed for minor ad-hoc analyses using SafeGraph POI data.
 
 ## Docker Image
 ```docker pull cadenfranc/safegraph-dashboard```
+
 https://hub.docker.com/repository/docker/cadenfranc/safegraph-dashboard
 
 ## Development Environment
